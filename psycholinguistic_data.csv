@@ -1,0 +1,26 @@
+ID,Speaker_Type,Text,Label
+1,Healthy,"The inherent complexity of the neurological system allows for high-level cognitive functioning.",1
+2,At_Risk,"The man went to the store. He wanted bread. He got the bread.",0
+3,Healthy,"Linguistic diversity often reflects the richness of an individual's semantic network.",1
+4,At_Risk,"I am tired today. I see the sun. It is big and yellow.",0
+5,Healthy,"Syntactic density is a key metric in evaluating the cognitive load of a specific discourse.",1
+6,At_Risk,"Where is my shoe? I lost the thing for my foot. The blue one?",0
+7,Healthy,"The researchers utilized a double-blind methodology to ensure the validity of the results.",1
+8,At_Risk,"The cat is small. It has fur. I like the cat a lot.",0
+9,Healthy,"Metaphorical language requires the integration of diverse neural pathways for interpretation.",1
+10,At_Risk,"The car is fast. It goes vroom. I want to go in the car.",0
+11,Healthy,"Anterior cingulate cortex activation is observed during complex decision-making tasks.",1
+12,At_Risk,"I had an apple. It was sweet. Then I went to sleep.",0
+13,Healthy,"The phonological structure of the language facilitates rapid lexical retrieval.",1
+14,At_Risk,"The bird is in the tree. It is singing a song. Look at it.",0
+15,Healthy,"Cognitive neuroscientists study the biological substrates underlying human language.",1
+16,At_Risk,"I forgot the word. The thing you write with. The long black thing.",0
+17,Healthy,"The statistical significance of the findings underscores the robustness of the model.",1
+18,At_Risk,"It is raining. I need my umbrella. I don't want to get wet.",0
+19,Healthy,"Advanced literacy involves the ability to decode complex metaphorical frameworks.",1
+20,At_Risk,"He is my friend. We play together. We have fun.",0
+21,Healthy,"Neurotoxic exposure may lead to a perceptible decline in syntactic sophistication.",1
+22,At_Risk,"The soup is hot. I use a spoon. I like the soup.",0
+23,Healthy,"The longitudinal study tracked the participants for over a decade to monitor cognitive health.",1
+24,At_Risk,"I see a dog. The dog is barking. He is loud.",0
+25,Healthy,"Executive function is essential for organizing and prioritizing multifaceted tasks.",1
