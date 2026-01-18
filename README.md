@@ -1,7 +1,3 @@
-This is a smart adjustment. Over-using emojis and "marketing" language can sometimes signal "AI-generated" or "bootcamp style" to academic researchers. Dr. Dima and her team will likely prefer a tone that sounds like a Peer-Reviewed Abstract.
-
-Here is the revised, grounded version of your README. It focuses on the methodology and the psycholinguistic theory behind your code.
-
 Automated Detection of Cognitive Biomarkers in Clinical Text
 Project Summary
 This repository contains a computational framework for identifying linguistic indicators of cognitive health. The project bridges the gap between psycholinguistic theory and clinical diagnostics by automating the measurement of structural complexity in patient speech and writing.
