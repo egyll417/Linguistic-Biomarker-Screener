@@ -1,14 +1,14 @@
 # Automated Detection of Cognitive Biomarkers in Clinical Text
 
 ### Project Summary
-This repository contains a computational framework for identifying linguistic indicators of cognitive health. The project bridges the gap between psycholinguistic theory and clinical diagnostics by automating the measurement of structural complexity in patient speech and writing.
+This repository contains a computational framework for identifying linguistic indicators of cognitive health. The project bridges the gap between psycholinguistic theory and clinical diagnostics by automating the measurement of structural complexity in patient speech.
 
 ### Technical Methodology
 1. Natural Language Processing (NLP)
-The pipeline utilizes the spaCy library for deep linguistic parsing. Raw text samples are processed to identify part-of-speech (POS) tags and syntactic dependencies, moving beyond simple keyword matching to analyze the underlying structure of the discourse.
+The pipeline utilizes the spaCy library for linguistic parsing. Raw text samples are processed to identify part-of-speech (POS) tags and syntactic dependencies, moving beyond simple keyword matching to analyze the underlying structure of the text.
 
 2. Feature Extraction
-The model quantifies cognitive load through three primary metrics:
+The model calculates cognitive load through three primary metrics:
 
 - Lexical Diversity: Calculation of the Type-Token Ratio (TTR) to assess vocabulary breadth.
 
@@ -17,4 +17,4 @@ The model quantifies cognitive load through three primary metrics:
 - Syntactic Density: Measuring the ratio of content words (nouns/verbs) to functional words to determine informational weight.
 
 3. Classification Architecture
-Extracted features are fed into a Random Forest Classifier. This ensemble learning approach was chosen for its ability to handle high-dimensional linguistic data and provide insight into feature importance, which is critical for clinical interpretability.
+Extracted features are fed into a Random Forest Classifier. This 'ensemble learning' approach was chosen for its ability to handle high-dimensional linguistic data and provide insight into feature importance, which is important for clinical interpretability.
